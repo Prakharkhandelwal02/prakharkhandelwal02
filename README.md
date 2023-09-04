@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently enrolled in **BCA + MCA integrated course**
 
-- 🌱 I’m currently learning **Data structure and algorithm and java**
+- 🌱 I’m currently learning **Data structure and algorithm with java**
 
 - 💬 Ask me about **Anything you want ;)**
 
