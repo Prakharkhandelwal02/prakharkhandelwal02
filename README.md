@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Anything you want ;)**
 
+- 📫 How to reach me **prakhark0211@gmail.com**
+
 - ⚡ Fun fact **I think i am funny :)**
 
 <h3 align="left">Connect with me:</h3>
