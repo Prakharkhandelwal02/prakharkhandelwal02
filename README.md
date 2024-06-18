@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Khandelwal</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharkhandelwal02&label=Profile%20views&color=0e75b6&style=flat" alt="prakharkhandelwal02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharkhandelwal02" alt="prakharkhandelwal02" /></a> </p>
-
 - 🔭 I’m currently enrolled in **BCA + MCA integrated course**
 
 - 🌱 I’m currently learning **Data structure and algorithm and java**
@@ -30,4 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharkhandelwal02&show_icons=true&locale=en" alt="prakharkhandelwal02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharkhandelwal02&" alt="prakharkhandelwal02" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharkhandelwal02&label=Profile%20views&color=0e75b6&style=flat" alt="prakharkhandelwal02" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharkhandelwal02" alt="prakharkhandelwal02" /></a> </p>
+
 
